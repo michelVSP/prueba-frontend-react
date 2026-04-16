@@ -1,11 +1,8 @@
-import ListaCatalogos from './components/ListaCatalogos'
-import ListaCatalogosFetch from './components/ListaCatalogosFetch'
-import PanelEstructura from './components/PanelEstructura'
 
 function App() {
   return (
     <div className="App">
-      <PanelEstructura />
+        <h2> Mi app 2</h2>
  
     </div>
   )

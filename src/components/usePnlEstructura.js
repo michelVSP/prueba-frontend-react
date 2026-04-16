@@ -26,7 +26,7 @@ function usePnlEstructura() {
                 console.error("Error al traer catálogo:", error);
                 setLoading(false);
             });
-    })
+    }, [])
 
     return {regiones, marcas, loading }  
 }; 
