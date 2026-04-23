@@ -200,3 +200,13 @@
    cursor: pointer;
    transition: background-color 0.3s;
 }
+
+.mi-contenedor {
+  background-color: red !important; /* El !important es solo para probar */
+    min-height: 30px;
+}
+
+.mi-header {
+  background-color: rgb(228, 216, 53) !important; /* El !important es solo para probar */
+    min-height: 30px;
+}

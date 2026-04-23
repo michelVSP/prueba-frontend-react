@@ -1,4 +1,5 @@
 import usePnlEstructura from "./usePnlEstructura";
+import  "../App.css";
 
 function PanelEstructura() {
 
@@ -7,7 +8,7 @@ function PanelEstructura() {
     return (
 
         <div>
-            <label>Region:</label>
+            <label >Region:</label>
 
             <select>
                 {
